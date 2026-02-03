@@ -26,3 +26,5 @@ PyTorch 기반 딥러닝 연구
 - Domain-robust biometric matching  
 - Signal quality index from PPG
 
+### 🔬 Featured Research
+- RockSiN: Robust Periocular Recognition under Glasses

@@ -4,6 +4,9 @@ AI Researcher | Computer Vision | Signal Processing
 PyTorch 기반 딥러닝 연구
 
 ---
+### 🔬 Featured Research
+- RockSiN: Robust Periocular Recognition under Glasses
+- A Head Scale Adaptive Lightweight Crowd Counter for Real-Time Embedded Deployment
 
 ## 🔭 Current Interests
 - Lightweight Crowd Counting  
@@ -25,6 +28,3 @@ PyTorch 기반 딥러닝 연구
 - Large-person curriculum crowd counting  
 - Domain-robust biometric matching  
 - Signal quality index from PPG
-
-### 🔬 Featured Research
-- RockSiN: Robust Periocular Recognition under Glasses

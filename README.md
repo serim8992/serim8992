@@ -1,4 +1,4 @@
-# 👑 Selim
+# 👑 Saelim
 
 AI Researcher | Computer Vision | Signal Processing  
 PyTorch 기반 딥러닝 연구

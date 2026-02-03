@@ -1,21 +1,28 @@
-## Hi there 👋
+# 👑 Selim
 
-<!--
-**serim8992/serim8992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Researcher | Computer Vision | Signal Processing  
+PyTorch 기반 딥러닝 연구
 
-# 👑 [Saelim Jeong / serim8992
+---
 
-AI / Computer Vision / Signal Processing  
-PyTorch 기반 연구 & 구현
+## 🔭 Current Interests
+- Lightweight Crowd Counting  
+- Periocular Biometrics (glasses-robust)  
+- Physiological Signal Analysis (PPG / APG)
 
-## 🔭 interesting
-- Crowd Counting (lightweight / domain adaptation)
-- Biometrics (periocular, glasses-robust)
-- PPG / physiological signal analysis
+## 🧠 Research Keywords
+- Domain Adaptation
+- Large-person aware learning
+- Contrastive Learning
+- Knowledge Distillation
 
-## 🧰 Tech
-- Python, PyTorch, OpenCV, Numpy, Pandas
+## 🧰 Tech Stack
+- Python, PyTorch  
+- OpenCV, Numpy, Pandas  
+- CUDA, Linux, VSCode
 
-
-- Email: [saelim8992@gmail.com]
+## 📌 Working On
+- Large-person curriculum crowd counting  
+- Domain-robust biometric matching  
+- Signal quality index from PPG
 

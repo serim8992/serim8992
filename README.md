@@ -14,8 +14,6 @@
 
 ## About Me
 
-안경 착용 조건에서도 강건하게 동작하는 **안와 주변부(periocular) 생체 인식**을 주제로 석사 학위를 마쳤습니다. 사람의 생체 신호와 영상 데이터를 딥러닝으로 다루는 문제에 관심이 많고, Crowd Counting·PPG 신호 복원 등 컴퓨터 비전 기반 실세계 응용 연구를 함께 진행해왔습니다.
-
 - 🎓 상명대학교 대학원 지능정보공학 석사 (2024.03 – 2026.02, 4.5/4.5)
   학위 논문: *안경 착용 조건에 대한 강건성을 갖춘 안와 주변부 이미지 기반 생체 인식 방법 연구*
 - 🎓 상명대학교 휴먼지능정보공학 학사 (2020.03 – 2024.02, 3.14/4.5)
@@ -23,7 +21,7 @@
 
 ## 🔬 Research Interests
 
-`Computer Vision` `Deep Learning` `Biometric Recognition` `Crowd Counting` `PPG Signal Processing` `Domain Generalization`
+`Computer Vision` `Deep Learning` `Biometric Recognition` `Crowd Counting` `PPG Signal Processing` 
 
 ## 🛠️ Tech Stack
 
@@ -46,6 +44,8 @@
 - 동공 경계부의 특징을 이용한 사용자 인증 방법 및 장치 (등록번호 10-2026-0039893)
 - 영상 기반의 원격 광혈류 신호 복원을 통한 혈관 건강지표 생성 장치 및 방법 (출원번호 10-2026-0086547)
 - 이미지 내 바닥의 면적을 추정하는 방법 및 장치 (출원번호 10-2025-0133936)
+- 이상 상황을 탐지하는 방법 및 장치 (출원번호 10-2026-0120535)
+- 스케일 적응적 감독을 이용한 군중 밀도 추정 방법 및 장치 (출원번호 10-2026-0122813)
 
 ## 🚀 Projects
 

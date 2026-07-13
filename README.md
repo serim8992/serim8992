@@ -1,8 +1,7 @@
-[README.md](https://github.com/user-attachments/files/29950644/README.md)
 <h1 align="center">Hi, I'm Saelim Jeong (정세림) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1E2761&center=true&vCenter=true&width=600&lines=Biometric+Recognition+Researcher;Computer+Vision+%7C+Deep+Learning;Robust+Periocular+Recognition+under+Glasses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1E2761&center=true&vCenter=true&width=600&lines=Teaching+machines+to+recognize+you%2C+glasses+on+or+off+%F0%9F%91%93;Turning+pixels+into+pulse+%E2%80%94+PPG+meets+deep+learning;Yes%2C+I+count+crowds+for+a+living+(it%27s+cooler+than+it+sounds)" alt="Typing SVG" />
 </p>
 
 <p align="center">

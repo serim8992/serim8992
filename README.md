@@ -13,6 +13,8 @@
 
 ## About Me
 
+안경 착용 조건에서도 강건하게 동작하는 **안와 주변부(periocular) 생체 인식**을 주제로 석사 학위를 마쳤습니다. 사람의 생체 신호와 영상 데이터를 딥러닝으로 다루는 문제에 관심이 많고, Crowd Counting·PPG 신호 복원 등 컴퓨터 비전 기반 실세계 응용 연구를 함께 진행해왔습니다.
+
 - 🎓 상명대학교 대학원 지능정보공학 석사 (2024.03 – 2026.02, 4.5/4.5)
   학위 논문: *안경 착용 조건에 대한 강건성을 갖춘 안와 주변부 이미지 기반 생체 인식 방법 연구*
 - 🎓 상명대학교 휴먼지능정보공학 학사 (2020.03 – 2024.02, 3.14/4.5)
@@ -20,7 +22,7 @@
 
 ## 🔬 Research Interests
 
-`Computer Vision` `Deep Learning` `Biometric Recognition` `Crowd Counting` `PPG Signal Processing` 
+`Computer Vision` `Deep Learning` `Biometric Recognition` `Crowd Counting` `PPG Signal Processing` `Domain Generalization`
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +50,8 @@
 
 ## 🚀 Projects
 
+- **[안경 착용 조건에 대한 강건성을 갖춘 안와 주변부 생체인식 연구](https://github.com/serim8992/periocular_biometric_glasses)** — 석사 학위 논문 프로젝트
+- **[Crowd Counting (UCF)](https://github.com/serim8992/crowd_counting_ucf)** — 군중 계측 프로젝트
 - **철도 혼잡도 관리시스템 구축 용역** — 한국철도공사 (2025.05 – 2025.12)
 - **광역 혼잡도 계측기술 및 학습데이터셋 개발** — 한국철도공사 (2024.06 – 2024.12)
 - **바이탈스페이스 생체정보 측정 라이브러리 고도화 개발 용역** — (주)바이오커넥트 (2026.01 – 2026.02)
